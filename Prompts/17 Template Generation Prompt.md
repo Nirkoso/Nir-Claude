@@ -87,6 +87,12 @@ The global slider that controls creative deviation from the original template. I
 - All copy (headline, body, CTA) must derive from BriefJSON.
 - Rephrase for clarity only; never fabricate new claims.
 
+### Copy Quality
+
+- All copy must be error-free: no spelling mistakes, no grammar errors.
+- If uncertain about spelling, default to simpler word choice.
+- Verify every word before finalizing.
+
 ### Platform Safety
 
 - Keep all primary elements inside 60 px margins on each side.
@@ -104,6 +110,8 @@ The global slider that controls creative deviation from the original template. I
 - **Body** (max 12 words): Explain the main value proposition or proof element.
 - **CTA** (max 3 words): Use a strong action verb, focus on finding the best 2 words, use 3 if you must (e.g., "Get the guide", "Start trial").
 - **LegalOptional**: Include only if mandated by {brief_json}; ≥ 11 pt equivalent.
+- **Mandatory**: Spell-check all copy. Zero typos allowed.
+- **Grammar**: Use complete, correct sentences. No fragments unless intentional.
 
 ## Accessibility
 
@@ -137,6 +145,8 @@ When manifesting the image, make sure to follow this audit self check:
 - Headline ≤ 10 words: PASS/FAIL
 - CTA inside safe area: PASS/FAIL
 - Temperature applied correctly: PASS/FAIL
+- All copy spell-checked (zero errors): PASS/FAIL
+- Grammar verified: PASS/FAIL
 
 ## Process Guidance
 
