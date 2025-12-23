@@ -20,6 +20,7 @@ Produce a single, high-fidelity ad image that:
 - On-brief messaging: copy accurately expresses the conversion goal.
 - Platform readiness: 60 px safe area from all sides.
 - No artifacts, distortion, or unauthorized logo edits.
+- no grammer or spelling mistakes, all text is 
 
 ## Inputs
 

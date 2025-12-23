@@ -168,6 +168,13 @@ For each concept, produce the brief (see schema) and ad copy (Primary, Headline,
 
 Score each concept on 0–5 for: Relevance, Differentiation, Specificity, Plausibility, Stage-Fit, PRISM Adherence. Flag anything < 4 with a one-line fix.
 
+**Spelling & Grammar Check**: Before finalizing output, perform a systematic review of all copy (Primary_text, Headline_text, hook variants) for:
+- Spelling errors
+- Grammar mistakes
+- Punctuation consistency (especially given PRISM's lowercase permissibility)
+- Typos in brand/product names
+- Proper capitalization for CTAs and headlines
+
 ## Platform Copy
 
 - **Primary Text** (above creative): 1 short paragraph. start with the hook, or Numbers & specifics preferred. keep it short and focused!
@@ -231,6 +238,7 @@ Produce exactly 6 concepts with unique concept_id 1–6.
 - Numbers: include at least one concrete stat, duration, or magnitude where plausible.
 - No Hype: cut "revolutionary/game-changing/etc."
 - Persona Match: ICP pains/goals explicitly referenced.
+- Clean Copy: All text free of spelling errors, grammar mistakes, and typos. Brand/product names properly capitalized.
 - Audit Trail: for Rare Angles, include a 1-line tail_note (outside the JSON) explaining the inversion used.
 
 ## Nonfunctional Constraints

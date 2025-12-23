@@ -133,6 +133,13 @@ Express a key benefit or proof derived from CompanyInfo.
 
 Use a direct, action-driven phrase (e.g., "Get started", "See demo").
 
+### Quality Assurance
+
+- Spell-check all copy before finalizing
+- Verify grammar correctness in headline, body, and CTA
+- Check for typos, homophone errors (e.g., "your" vs "you're")
+- Ensure punctuation is consistent and correct
+
 ## Accessibility
 
 - **Contrast**: All text must meet WCAG AA contrast ratios.
@@ -147,6 +154,7 @@ Use a direct, action-driven phrase (e.g., "Get started", "See demo").
 - Do not misrepresent factual claims.
 - Do not overuse effects that reduce clarity (glow, grain, blur).
 - Do not crop or distort the provided brand logo.
+- Do not publish ads with spelling or grammatical errors.
 
 ## Fallbacks
 
@@ -165,6 +173,17 @@ When generating, ensure:
 - Headline ≤ 8 words: PASS/FAIL
 - CTA inside safe area: PASS/FAIL
 - Temperature behavior consistent with input value: PASS/FAIL
+- All text free of spelling errors: PASS/FAIL
+- Grammar verified in all copy: PASS/FAIL
+
+## Copy Quality Standards
+
+Before finalizing the ad:
+1. Run spell-check on all text elements
+2. Verify grammar in headline, body text, and CTA
+3. Check for common errors: apostrophes, homophones, capitalization
+4. Ensure professional copywriting standards
+5. Double-check brand/product names match CompanyInfo exactly
 
 ## Process Guidance
 
